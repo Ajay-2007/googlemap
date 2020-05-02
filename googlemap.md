@@ -118,7 +118,7 @@ fig
 
     Figure(layout=FigureLayout(height='420px'))
 
-
+![](https://github.com/Ajay-2007/googlemap/blob/master/map_1.png)
 
 ```python
 import gmaps
@@ -135,7 +135,7 @@ fig
 
     Figure(layout=FigureLayout(height='420px'))
 
-
+![](https://github.com/Ajay-2007/googlemap/blob/master/map_2.png)
 
 ```python
 
